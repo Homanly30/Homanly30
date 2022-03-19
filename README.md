@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Homanly30
-- 👀 I’m interested in Web Developing.
-- 🌱 I’m currently learning more about JavaScript.
-- 💞️ I’m looking to collaborate with prajeshElEvEn.
-- 📫 Reach me with my Email aryanshpratapsingh30@gmail.com
+Hello, I'm Homanly30, a web developer, making cool, as well as useless projects. If you wanna collab so that we can make even cooler projects, contact me at aryanshpratapsingh30@gmail.com :)
 
 <!---
 Homanly30/Homanly30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
